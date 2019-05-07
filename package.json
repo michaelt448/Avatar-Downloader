@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/michaelt448/Avatar-Downloader#readme",
   "dependencies": {
+    "dotenv": "^8.0.0",
+    "dotnet": "^1.1.4",
     "request": "^2.88.0"
   }
 }
